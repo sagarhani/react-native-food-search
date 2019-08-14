@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Food",
-    "slug": "food",
+    "name": "Food Search",
+    "slug": "food-search",
     "privacy": "public",
     "sdkVersion": "34.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Restaurant search using Yelp API.",
+    "githubUrl": "https://github.com/sagarhani/react-native-food-search"
   }
 }
